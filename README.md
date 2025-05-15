@@ -1,4 +1,4 @@
-# RPasswords
+# RoHs Passwords
 
 ## Install all libs:
 ```bash
